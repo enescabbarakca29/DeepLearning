@@ -1,4 +1,4 @@
-# YZM304 Derin Öğrenme Projesi
+# YZM304 Derin Öğrenme Projesi 1
 
 ## Heart Failure Clinical Records Veri Seti ile Binary Classification
 
