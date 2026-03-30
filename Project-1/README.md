@@ -289,7 +289,7 @@ Proje aşağıdaki dosyalardan oluşmaktadır:
 ```text
 YZM304_Proje/
 ├── heart_failure_clinical_records_dataset.csv
-├── lab_model.ipynb
+├── lab.model.ipynb
 ├── proje.ipynb
 └── README.md
 ```
