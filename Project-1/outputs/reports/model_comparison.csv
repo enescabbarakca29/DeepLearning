@@ -1,0 +1,6 @@
+model_name,architecture,epochs,train_accuracy,validation_accuracy,test_accuracy,precision,recall,specificity,f1_score,tn,fp,fn,tp,note
+numpy_model_a,12 -> 16 -> 8 -> 1,600,0.838,0.8667,0.8333,0.8462,0.5789,0.9512,0.6875,39,2,8,11,Daha derin mimari ile kapasite art?r?ld?; derin a? i?in daha kararl? Xavier ba?latma kullan?ld?.
+numpy_model_b,12 -> 32 -> 16 -> 1 (L2),300,0.8436,0.85,0.75,0.6667,0.4211,0.9024,0.5161,37,4,11,8,Daha geni? mimari ve L2 regularization kullan?ld?.
+pytorch_baseline,12 -> 8 -> 1,400,0.8492,0.8333,0.7833,0.7143,0.5263,0.9024,0.6061,37,4,9,10,"PyTorch uygulamas? temel modelle ayn? katman d?zeni, tanh gizli aktivasyonu, sigmoid ??k??, SGD ve ortak ba?lang?? a??rl?klar? ile e?itildi."
+numpy_baseline,12 -> 8 -> 1,400,0.8547,0.8333,0.7833,0.75,0.4737,0.9268,0.5806,38,3,10,9,Laboratuvar mant???na dayal? temel NumPy model. Ortak ba?lang?? a??rl?klar? k???k Gauss da??l?m? ve s?f?r bias ile olu?turuldu.
+sklearn_baseline,12 -> 8 -> 1,400,0.8547,0.8333,0.7833,0.75,0.4737,0.9268,0.5806,38,3,10,9,"Scikit-learn MLPClassifier ile ayn? 8 n?ronlu tek gizli katman, tanh aktivasyonu, SGD ??z?c?s? ve ortak ba?lang?? a??rl?klar? kullan?ld?."
