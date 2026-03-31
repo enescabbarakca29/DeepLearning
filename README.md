@@ -3,7 +3,7 @@
 Ankara Üniversitesi  
 Yapay Zeka ve Veri Mühendisliği Bölümü
 
-Bu depo, **YZM304 Derin Öğrenme** dersi kapsamında hazırlanan proje çalışmalarını içermektedir.
+Bu repo, **YZM304 Derin Öğrenme** dersi kapsamında hazırlanan proje çalışmalarını içermektedir.
 
 ---
 
