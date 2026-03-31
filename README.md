@@ -1,9 +1,9 @@
-# YZM304 Derin Ogrenme
+# YZM304 Derin Öğrenme
 
-Ankara Universitesi - Yapay Zeka ve Veri Muhendisligi Bolumu 
+Ankara Üniversitesi - Yapay Zeka ve Veri Mühendisliği Bölümü
 
 ## Projeler
 
-| Proje | Konu | Klasor |
+| Proje | Konu | Klasör |
 |------|------|--------|
-| Proje 1 | Heart Failure Clinical Records ile Deep Learning Classification | [Project-1](./Project-1) |
+| Proje 1 | Heart Failure Clinical Records ile Deep Learning Classification | [Project-1](./DeepLearning/Project-1/) |
