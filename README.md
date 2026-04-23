@@ -12,3 +12,4 @@ Bu repo, **YZM304 Derin Öğrenme** dersi kapsamında hazırlanan proje çalış
 | Proje | Konu | Açıklama | Klasör |
 |------|------|----------|--------|
 | Proje 1 | Heart Failure Clinical Records ile Deep Learning Classification | Kalp yetmezliği klinik kayıtları veri seti kullanılarak NumPy, Scikit-learn ve PyTorch ile derin öğrenme tabanlı sınıflandırma çalışması | [Project-1](./Project-1/) |
+| Proje 2 | Intel Image Classification ile CNN Tabanlı Görüntü Sınıflandırma | Intel Image Classification veri seti kullanılarak PyTorch ile CNN modelleri (LeNet-like, Improved CNN, Transfer Learning) ve hibrit (CNN feature extraction + Logistic Regression) yaklaşımı ile görüntü sınıflandırma ve model karşılaştırması | [Project-2](./Project-2/) |
