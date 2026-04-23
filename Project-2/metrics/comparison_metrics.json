@@ -1,0 +1,49 @@
+{
+  "best_model": "hybrid_logistic_regression",
+  "comparison": [
+    {
+      "model": "model1_lenet_like",
+      "train_accuracy": 0.817938897301149,
+      "validation_accuracy": 0.8097613110081938,
+      "test_accuracy": 0.8106666666666666,
+      "precision": 0.8166472971585981,
+      "recall": 0.8106666666666666,
+      "f1_score": 0.8106417739436114,
+      "training_time": "00:12:26",
+      "training_time_seconds": 746.6807449999978
+    },
+    {
+      "model": "model2_improved_cnn",
+      "train_accuracy": 0.7228110804311035,
+      "validation_accuracy": 0.7737798361239758,
+      "test_accuracy": 0.787,
+      "precision": 0.7960079642156094,
+      "recall": 0.787,
+      "f1_score": 0.786930104741635,
+      "training_time": "00:11:39",
+      "training_time_seconds": 699.9740221999964
+    },
+    {
+      "model": "model3_transfer",
+      "train_accuracy": 0.8105460051661174,
+      "validation_accuracy": 0.7926612041325258,
+      "test_accuracy": 0.7886666666666666,
+      "precision": 0.7906418060282688,
+      "recall": 0.7886666666666666,
+      "f1_score": 0.7887622815758547,
+      "training_time": "00:09:02",
+      "training_time_seconds": 542.4811867000026
+    },
+    {
+      "model": "hybrid_logistic_regression",
+      "train_accuracy": 0.8918678186514652,
+      "validation_accuracy": 0.834698966868543,
+      "test_accuracy": 0.8236666666666667,
+      "precision": 0.8234887352985639,
+      "recall": 0.8236666666666667,
+      "f1_score": 0.8235300903377287,
+      "training_time": "00:01:12",
+      "training_time_seconds": 72.72984719999658
+    }
+  ]
+}

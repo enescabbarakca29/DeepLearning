@@ -1,0 +1,43 @@
+{
+  "model_name": "model2_improved_cnn",
+  "best_epoch": 5,
+  "best_val_accuracy": 0.7737798361239758,
+  "training_time_seconds": 699.9740221999964,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 1.497381966600565,
+      "val_loss": 1.0620954218478147,
+      "train_accuracy": 0.4440188830497907,
+      "val_accuracy": 0.583897399358746
+    },
+    {
+      "epoch": 2,
+      "train_loss": 1.0552579156594528,
+      "val_loss": 0.9006359579514727,
+      "train_accuracy": 0.5871559633027523,
+      "val_accuracy": 0.6501603135019594
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.9482131957997194,
+      "val_loss": 0.8441723423111172,
+      "train_accuracy": 0.6328493809566225,
+      "val_accuracy": 0.6807980049875312
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.8478420630072171,
+      "val_loss": 0.808836655129221,
+      "train_accuracy": 0.6759597399127104,
+      "val_accuracy": 0.717491984324902
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.7709764540646734,
+      "val_loss": 0.6532474760063016,
+      "train_accuracy": 0.7228110804311035,
+      "val_accuracy": 0.7737798361239758
+    }
+  ]
+}
