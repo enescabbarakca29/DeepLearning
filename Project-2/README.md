@@ -8,6 +8,21 @@ Bu çalışmanın problemi, doğal sahne görüntülerini altı sınıftan birin
 
 ## Methods
 
+## Dataset
+
+Bu projede kullanılan veri seti:
+
+Intel Image Classification Dataset  
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+
+Not: Veri seti boyutu büyük olduğu için GitHub reposuna eklenmemiştir.  
+Projeyi çalıştırmak için veri setini indirip aşağıdaki klasör yapısına yerleştirmeniz gerekmektedir:
+
+Project-2/data/
+├── seg_train/
+├── seg_test/
+└── seg_pred/
+
 ### Veri seti yapısı
 
 Proje veri seti yolunu relative path ile kullanır:
