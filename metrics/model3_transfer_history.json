@@ -1,0 +1,43 @@
+{
+  "model_name": "model3_transfer",
+  "best_epoch": 4,
+  "best_val_accuracy": 0.7926612041325258,
+  "training_time_seconds": 542.4811867000026,
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.9518269927724446,
+      "val_loss": 0.8621921204654271,
+      "train_accuracy": 0.6384608533000802,
+      "val_accuracy": 0.6711791948699679
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.7165376162384586,
+      "val_loss": 0.7354115566453094,
+      "train_accuracy": 0.7367061548053799,
+      "val_accuracy": 0.7392233701460634
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.6239743986080493,
+      "val_loss": 1.102812235640766,
+      "train_accuracy": 0.773403402511802,
+      "val_accuracy": 0.6451727823298896
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.5813314258505445,
+      "val_loss": 0.583144314398662,
+      "train_accuracy": 0.7852498441257683,
+      "val_accuracy": 0.7926612041325258
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.5248323671988944,
+      "val_loss": 0.5860080798835061,
+      "train_accuracy": 0.8105460051661174,
+      "val_accuracy": 0.7894549340933381
+    }
+  ]
+}

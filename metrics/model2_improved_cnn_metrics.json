@@ -1,0 +1,10 @@
+{
+  "model": "model2_improved_cnn",
+  "train_accuracy": 0.7228110804311035,
+  "validation_accuracy": 0.7737798361239758,
+  "test_accuracy": 0.787,
+  "precision": 0.7960079642156094,
+  "recall": 0.787,
+  "f1_score": 0.786930104741635,
+  "training_time_seconds": 699.9740221999964
+}

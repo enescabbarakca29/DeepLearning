@@ -1,0 +1,10 @@
+{
+  "model": "model1_lenet_like",
+  "train_accuracy": 0.817938897301149,
+  "validation_accuracy": 0.8097613110081938,
+  "test_accuracy": 0.8106666666666666,
+  "precision": 0.8166472971585981,
+  "recall": 0.8106666666666666,
+  "f1_score": 0.8106417739436114,
+  "training_time_seconds": 746.6807449999978
+}
